@@ -26,6 +26,7 @@ body {
     width: 380px;
     height: auto;
     border-radius: 10px;
+    box-shadow:#111111 5px 5px, #111111 10px 10px, #111111 15px 15px;
 }
 
 .card_alignment {
